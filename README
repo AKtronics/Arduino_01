@@ -1,7 +1,4 @@
-echo "# Arduino_01" >> README.md
-git init
-git add README.md
-git commit -m "This is my first github repository where I will show you my first arduino code using C++. Here I will show how to blink an LED light "
-git branch -M main
-git remote add origin https://github.com/Akashtronics/Arduino_01.git
-git push -u origin main
+This is my first github repository
+where I will show you my first arduino code using C++. 
+Here I will show how to blink an LED light 
+Requirements: Arduino Uno R3, a LED, a 10 kohm resistor and connecting wires
